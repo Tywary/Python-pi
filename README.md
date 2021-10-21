@@ -29,5 +29,4 @@ When you download the project do the following
 ##### You can donate on a game of mine here: [Zapina Studios](https://zapina.itch.io/)
 Or
 ##### BTC: [bc1q2kqnrvhdeaxc808rs6f452te8xggufgdxj9amn]()
-Or
 ##### ETH: [0x8300aDEA51C5159a05E2A41C46020D57229a9bD6]()
